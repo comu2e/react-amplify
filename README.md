@@ -6,14 +6,20 @@
 　  AWS アカウント(AccessID,Password)
  　 
 ```React.js
-   npx create-react-app  プロジェクト名 --typescript
-   npm i -g @aws-amplify/cli
-   amplify init
+   1. npx create-react-app  プロジェクト名 --typescript
+   2. npm i -g @aws-amplify/cli
+   3. amplify init 
    #必要項目を入力していく(プロジェクト名、IDE、AWS アカウント）
+   
+   
+   
 ```
 
 ```
 CI/ID
   1. プロジェクトをremote のgitレポジトリにpushする
-  2. AWS amplifyでgitレポジトリと紐付ける。()
+  2. AWS amplifyでgitレポジトリと紐付ける。
+
 ```
+
+https://master.d25utjpdmopd9x.amplifyapp.com/
