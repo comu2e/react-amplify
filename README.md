@@ -8,7 +8,7 @@
 ```React.js
    npx create-react-app  プロジェクト名 --typescript
    npm i -g @aws-amplify/cli
-   
+   amplify init
    #必要項目を入力していく(プロジェクト名、IDE、AWS アカウント）
 ```
 
